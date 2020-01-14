@@ -7,6 +7,9 @@ $APPLICATION->SetPageProperty("title", "О компании");
 $APPLICATION->SetTitle("О компании");
 ?>
 
+<!-- Здесь нужно писать код на HTML. -->
+
+<!-- Вставка заголовка страницы -->
 <?=$APPLICATION->GetTitle() ?>
 
 <!-- Здесь нужно писать код на HTML. -->
